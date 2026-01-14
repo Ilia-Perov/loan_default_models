@@ -11,10 +11,10 @@ The project uses an open loan default dataset containing demographic, financial,
 - Numerical and categorical features
 - Binary target variable: Default (0 — non-default, 1 — default)
 
-- ## Project Structure
+## Project Structure
 - loan_default_validation/
 ├── data/
-│   ├── raw/                # original dataset
+│   ├── raw/              
 ├── notebooks/
 │   ├── main.ipynb
 ├── outputs/
