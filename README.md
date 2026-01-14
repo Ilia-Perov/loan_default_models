@@ -12,15 +12,17 @@ The project uses an open loan default dataset containing demographic, financial,
 - Binary target variable: Default (0 — non-default, 1 — default)
 
 ## Project Structure
-- loan_default_validation/
+```
+loan_default_validation/
 ├── data/
-│   ├── raw/              
+│   ├── raw/
 ├── notebooks/
-│   ├── main.ipynb
+│   └── main.ipynb
 ├── outputs/
 ├── report/
-│   └── model_validation_report.md
+│   └── models_report.md
 └── README.md
+```
 
 ## Workflow
 1. Exploratory Data Analysis (EDA) and data quality assessment
