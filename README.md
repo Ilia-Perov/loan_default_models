@@ -17,7 +17,7 @@ loan_default_validation/
 ├── data/
 │   ├── raw/
 ├── notebooks/
-│   └── main.ipynb
+│   └── main.ipynb #main notebook with analysis
 ├── outputs/
 ├── report/
 │   └── models_report.md
